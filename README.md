@@ -45,7 +45,7 @@ Fb hack
 
     $ git clone https://github.com/Rohitchettri01/FB-HACK
     
-    $ cd FBTOOL
+    $ cd FB-HACK
 
     $ python2 fbtool.py
     
