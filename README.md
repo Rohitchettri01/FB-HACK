@@ -47,9 +47,9 @@ Fb hack
     
     $ cd FB-HACK
 
-    $ python2 fbtool.py
+    $ python2 FB-HACK.py
     
     or
     
-    $ sudo python2 fbtool.py
+    $ sudo python2 FB-HACK.py
 #
